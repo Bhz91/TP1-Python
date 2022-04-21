@@ -10,3 +10,6 @@ while Premier !=0:
     Second += Second;
 print(x);
 print (temp);
+
+
+#commentaire
